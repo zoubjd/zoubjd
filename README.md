@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zoubjd
 - 👀 I’m interested in coding/programing
 - 🌱 I’m currently learning javascript/python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @zoubjd on the platforms
+- 📫 How to reach me @zoubjd on all the platforms
 
 <!---
 zoubjd/zoubjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

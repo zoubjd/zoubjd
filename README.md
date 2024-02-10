@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoubjd
-- 👀 I’m interested in coding/programing
-- 🌱 I’m currently learning javascript/python
+- 👀 I’m interested in coding/programming
+- 🌱 I’m currently learning javascript/C
 - 📫 How to reach me @zoubjd on all the platforms
 
 <!---
